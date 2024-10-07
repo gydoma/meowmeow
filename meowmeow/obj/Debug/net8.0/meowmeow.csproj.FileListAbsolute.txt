@@ -1,0 +1,14 @@
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\bin\Debug\net8.0\meowmeow.exe
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\bin\Debug\net8.0\meowmeow.deps.json
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\bin\Debug\net8.0\meowmeow.runtimeconfig.json
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\bin\Debug\net8.0\meowmeow.dll
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\bin\Debug\net8.0\meowmeow.pdb
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.AssemblyInfoInputs.cache
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.AssemblyInfo.cs
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.csproj.CoreCompileInputs.cache
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.dll
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\refint\meowmeow.dll
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.pdb
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\meowmeow.genruntimeconfig.cache
+C:\Users\gyurkovics.dominik\source\repos\meowmeow\meowmeow\obj\Debug\net8.0\ref\meowmeow.dll
